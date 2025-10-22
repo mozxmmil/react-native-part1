@@ -1,0 +1,244 @@
+{
+  "dummyUsers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 25,
+      "role": "Developer",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "age": 30,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "age": 28,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "age": 32,
+      "role": "Analyst",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "name": "Eve Wilson",
+      "email": "eve.wilson@example.com",
+      "age": 27,
+      "role": "Developer",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "email": "frank.miller@example.com",
+      "age": 35,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 7,
+      "name": "Grace Lee",
+      "email": "grace.lee@example.com",
+      "age": 29,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "name": "Henry Ford",
+      "email": "henry.ford@example.com",
+      "age": 40,
+      "role": "Analyst",
+      "status": "completed"
+    },
+    {
+      "id": 9,
+      "name": "Iris West",
+      "email": "iris.west@example.com",
+      "age": 26,
+      "role": "Developer",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "name": "Jack Ryan",
+      "email": "jack.ryan@example.com",
+      "age": 33,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 11,
+      "name": "Kara Zor-El",
+      "email": "kara.zor-el@example.com",
+      "age": 24,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "name": "Liam Neeson",
+      "email": "liam.neeson@example.com",
+      "age": 45,
+      "role": "Analyst",
+      "status": "completed"
+    },
+    {
+      "id": 13,
+      "name": "Mia Wallace",
+      "email": "mia.wallace@example.com",
+      "age": 31,
+      "role": "Developer",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "name": "Nathan Drake",
+      "email": "nathan.drake@example.com",
+      "age": 38,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Pope",
+      "email": "olivia.pope@example.com",
+      "age": 34,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "name": "Peter Parker",
+      "email": "peter.parker@example.com",
+      "age": 22,
+      "role": "Developer",
+      "status": "completed"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Fabray",
+      "email": "quinn.fabray@example.com",
+      "age": 26,
+      "role": "Analyst",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "name": "Ryan Gosling",
+      "email": "ryan.gosling@example.com",
+      "age": 39,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 19,
+      "name": "Sophia Loren",
+      "email": "sophia.loren@example.com",
+      "age": 36,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "name": "Tyler Durden",
+      "email": "tyler.durden@example.com",
+      "age": 29,
+      "role": "Developer",
+      "status": "completed"
+    },
+    {
+      "id": 21,
+      "name": "Uma Thurman",
+      "email": "uma.thurman@example.com",
+      "age": 37,
+      "role": "Analyst",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "name": "Vincent Vega",
+      "email": "vincent.vega@example.com",
+      "age": 41,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 23,
+      "name": "Wanda Maximoff",
+      "email": "wanda.maximoff@example.com",
+      "age": 30,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "name": "Xavier Charles",
+      "email": "xavier.charles@example.com",
+      "age": 28,
+      "role": "Developer",
+      "status": "completed"
+    },
+    {
+      "id": 25,
+      "name": "Yara Shahidi",
+      "email": "yara.shahidi@example.com",
+      "age": 25,
+      "role": "Analyst",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "name": "Zoe Saldana",
+      "email": "zoe.saldana@example.com",
+      "age": 42,
+      "role": "Designer",
+      "status": "completed"
+    },
+    {
+      "id": 27,
+      "name": "Aaron Paul",
+      "email": "aaron.paul@example.com",
+      "age": 35,
+      "role": "Manager",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "name": "Bella Thorne",
+      "email": "bella.thorne@example.com",
+      "age": 27,
+      "role": "Developer",
+      "status": "completed"
+    },
+    {
+      "id": 29,
+      "name": "Caleb McLaughlin",
+      "email": "caleb.mclaughlin@example.com",
+      "age": 23,
+      "role": "Analyst",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "name": "Daisy Ridley",
+      "email": "daisy.ridley@example.com",
+      "age": 31,
+      "role": "Designer",
+      "status": "completed"
+    }
+  ]
+}
